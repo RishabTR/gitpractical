@@ -1,0 +1,29 @@
+.parent{
+    width: 800px;
+    height: 1000px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+     
+}
+
+.child1{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    border: 1px solid black;
+}
+.child2{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    border: 1px solid black;
+}
+.child3{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    border: 1px solid black;
+}
